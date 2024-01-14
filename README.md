@@ -1,1 +1,1 @@
-This repository contains bassic data structure and algorithms implementation in python3.
+This repository contains basic data structure and algorithms implementation in python3.
